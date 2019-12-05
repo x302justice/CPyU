@@ -1,24 +1,7 @@
 # CPyU
-A script for python that tells you your cpu and crap(only for linux)
+A script for python that tells you your cpu.
 
-the script needs to be tested and optimized for the following:
+dd/mm/yy format used for update notes
 
-Linux
-
-Windows
-
-PyNX
-
-Not So Frequently Asked Questions Because This Isn't Public Yet(NSFAQBTIPY):
-
-Q:What the fuck else will this do?
-
-A:Only different feature will be on Switch version, where it'll say weather it was bought before or after march 28th(i think it was, don't hold me to it, bitch)
-
-Q:You made this account a few months ago, but haven't used it until now, whatr's up with that?
-
-A:i don't know.
-
-Q: how the fuck do i say this?
-
-A:See-Pie-You. I'm not creative
+05/12/19 change lod(REPO):
+finally added the file. it's only working on windows right now, but hopefully it'll work on linux
