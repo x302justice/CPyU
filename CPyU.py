@@ -12,4 +12,4 @@ if a == 'win32':
     os.system("pause>nul")
     print("h")
 else:
-    print("sorry, no os by", sys.playfirm, "exists in creators brain, try again in a later version")
+    print("sorry, no os called", sys.playfirm, "exists in creators brain, try again in a later version")
