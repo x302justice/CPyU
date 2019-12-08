@@ -6,6 +6,7 @@ dd/mm/yy format used for update notes
 8/12/19(FILE + README):
 
 Fixed issue where it would say "%PROCESSOR_LEVEL" instead of the actual processor level
+
 Made first note make sense
 
 6/12/19 change log(FILE):
