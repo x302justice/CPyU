@@ -3,9 +3,14 @@ A script for python that tells you your cpu.
 
 dd/mm/yy format used for update notes
 
+14/5/21(file):
+(why did i do things in capitals?)
+I FINALLY GOT THIS THING WORKING ON LINUX :D
+check releases for the same file but under releases (yep...)
+
 8/12/19(FILE + README):
 
-Fixed issue where it would say "%PROCESSOR_LEVEL" instead of the actual processor level
+Fixed issue where it would say "%PROCESSOR_LEVEL" instead of the actual processor level on windows
 
 Made first note make sense
 
