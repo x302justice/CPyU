@@ -10,6 +10,12 @@ if a == 'win32':
     print("processor level:")
     os.system("echo %PROCESSOR_LEVEL%")
     os.system("pause>nul")
-    print("h")
+elif a == "linux":
+    os.system("cat /proc/cpuinfo | grep 'vendor' | uniq")
+    os.system("cat /proc/cpuinfo | grep 'model name' | uniq")
+    print("number of cores:")
+    os.system("cat /proc/cpuinfo | grep processor | wc -l")
+    print("cores and ids:")
+    os.system("cat /proc/cpuinfo | grep 'core id'")
 else:
-    print("sorry, no os by", sys.playform, "exists in creators brain, try again in a later version")
+    print("sorry, no os by", sys.platform, "exists in creators brain, try again in a later version")
